@@ -7,6 +7,13 @@ My goal was to simulate a professional work enviroment.
 - I built this app based on Figma designs.
 - I worked with tasks on a Kanban board.
 - I used feature branches and Pull Requests.
+  
+
+## If I had more time I would change this
+
+- Add end-to-end with Cypress.
+- Refactor some of the code.
+
 
 ## Technologies Used
 
