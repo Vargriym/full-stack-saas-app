@@ -1,4 +1,4 @@
-# Build a SaaS app with React
+# SaaS app with React
 
 ## How I worked on this project
 
@@ -11,7 +11,7 @@ My goal was to simulate a professional work enviroment.
 
 ## If I had more time I would change this
 
-- Add end-to-end with Cypress.
+- Add end-to-end tests with Cypress.
 - Refactor some of the code.
 
 
