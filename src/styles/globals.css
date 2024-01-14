@@ -727,7 +727,7 @@ article.product > section > section {
 
 @media (min-width: 1024px) {
   .product-section {
-    max-width: 1024px;
+    max-width: 850px;
     margin: 0 auto;
     padding: 4rem;
   }
