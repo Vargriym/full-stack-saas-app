@@ -1,4 +1,12 @@
-# SaaS app with React
+<p align="center">
+    <img alt="typing test screenshot" src="https://github.com/Vargriym/full-stack-e-commerce-application/blob/master/e-commerce.png">
+    <h1 align="center">Full Stack SaaS Application</h1>
+  </a>
+</p>
+
+<p align="center">
+  A Full Stack SaaS Application built with Next 13, Supabase & Stripe.
+</p>
 
 ## How I worked on this project
 
