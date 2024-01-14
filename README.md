@@ -8,6 +8,13 @@
   A Full Stack SaaS Application built with Next 13, Supabase & Stripe.
 </p>
 
+<p align="center">
+  <a href="#How I worked on this project"><strong>How I worked on this project</strong></a> ·
+    <a href="#Why I built the project this way"><strong>Why I built the project this way</strong></a> ·
+</p>
+
+<br/>
+
 ## How I worked on this project
 
 My goal was to simulate a professional work enviroment.
@@ -41,11 +48,3 @@ basic backend knowledge as well.
 
 - Next.js (13), Supabase, Stripe and Vercel
 
-
-## Additional Info
-
-- The logo font is "Bakbak One", a free Google font
-- All the images are included in the /assets folder in /public
-- Along with each image is its original .psd (Photoshop) file
-- Seed product data using the Supabase SQL editor from the seed.sql file (in this project)
-- Use VSCode to instantly install the recommended extensions for this project (listed in the .vscode folder in this project)
