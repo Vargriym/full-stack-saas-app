@@ -18,7 +18,7 @@ My goal was to simulate a professional work enviroment.
 
 ## Technologies Used
 
-- Next.js (13), Supabase, Stripe, Vercel
+- Next.js (13), Supabase, Stripe and Vercel
 
 
 ## Additional Info
