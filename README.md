@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="typing test screenshot" src="https://github.com/Vargriym/full-stack-e-commerce-application/blob/master/e-commerce.png">
+    <img alt="typing test screenshot" src="https://github.com/Vargriym/full-stack-saas-app/blob/master/Project%20screenshot.png">
     <h1 align="center">Full Stack SaaS Application</h1>
   </a>
 </p>
