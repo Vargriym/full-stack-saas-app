@@ -764,6 +764,9 @@ article.product > * {
   color: #fff;
   border-color: #000;
 }
+.primary:hover {
+  color:#0b83ec
+}
 
 .button {
   background: transparent;
