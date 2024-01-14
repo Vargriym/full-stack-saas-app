@@ -14,7 +14,7 @@ export default function SuccessPage() {
           alt="confetti"
           className="confetti"
           />
-          <h1>You're in!</h1>
+          <h1>{`You're in!`}</h1>
           <p>You can now access everything on the site. <br /> Ready to get started?</p>
           <Link href="/login" className="large-button">
             <div className="large-button-text">Go to login</div>
