@@ -1,14 +1,17 @@
 # Build a SaaS app with React
 
+## How I worked on this project
+
+My goal was to simulate a professional work enviroment.
+
+- I built this app based on Figma designs.
+- I worked with tasks on a Kanban board.
+- I used feature branches and Pull Requests.
+
 ## Technologies Used
 
 - Next.js (13), Supabase, Stripe, Vercel
 
-## Tools Needed
-
-- [Node / NPM (Package Manager)](https://nodejs.org/)
-- [VSCode (Code Editor)](https://code.visualstudio.com/)
-- [Git / Github](https://git-scm.com/)
 
 ## Accounts Needed (100% Free)
 
