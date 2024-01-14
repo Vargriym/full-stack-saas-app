@@ -10,7 +10,8 @@
 
 <p align="center">
   <a href="#How-I-worked-on-this-project"><strong>How I worked on this project</strong></a> ·
-    <a href="#Why-I-built-the-project-this-way"><strong>Why I built the project this way</strong></a>
+    <a href="#Why-I-built-the-project-this-way"><strong>Why I built the project this way</strong></a> ·
+    <a href="#live-demo"><strong>View Live</strong></a>
 </p>
 
 <br/>
@@ -47,4 +48,8 @@ basic backend knowledge as well.
 ## Technologies Used
 
 - Next.js (13), Supabase, Stripe and Vercel
+
+## Live Demo
+
+- https://full-stack-saas-app.vercel.app
 
